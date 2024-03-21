@@ -1,0 +1,6 @@
+@ConsultaAPI_HostAddress = http://localhost:5094
+
+GET {{ConsultaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
